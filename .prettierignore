@@ -1,0 +1,38 @@
+# 依赖
+node_modules
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# 构建产物
+dist
+unpackage
+.nuxt
+.output
+.vercel
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# 日志
+*.log
+logs
+
+# 运行时
+.cache
+.temp
+.tmp
+
+# 配置文件
+*.min.js
+*.min.css
+
+# 其他
+*.md
